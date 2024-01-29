@@ -1,0 +1,73 @@
+
+    {
+      "ad_id": 101,
+      "image_url": "https://example.com/hats_ad.jpg",
+      "tagline": "Stay Warm with Trendy Hats",
+      "text": "Explore our latest collection of stylish hats. Perfect for the winter season!",
+      "link": "https://example.com/shop/hats"
+    },
+    {
+      "ad_id": 102,
+      "image_url": "https://example.com/sunglasses_ad.jpg",
+      "tagline": "Summer Essentials: Sunglasses Sale!",
+      "text": "Get ready for summer with our exclusive sunglasses collection. Limited-time discounts!",
+      "link": "https://example.com/shop/sunglasses"
+    },
+    {
+      "ad_id": 103,
+      "image_url": "https://example.com/running_shoes_ad.jpg",
+      "tagline": "Step into Fitness with Our Running Shoes",
+      "text": "Achieve your fitness goals with our comfortable and durable running shoes.",
+      "link": "https://example.com/shop/running_shoes"
+    },
+    {
+      "ad_id": 104,
+      "image_url": "https://example.com/gaming_ad.jpg",
+      "tagline": "Upgrade Your Gaming Experience",
+      "text": "Discover the latest gaming gadgets and accessories. Level up your gaming setup now!",
+      "link": "https://example.com/shop/gaming"
+    },
+    {
+      "ad_id": 105,
+      "image_url": "https://example.com/cooking_ad.jpg",
+      "tagline": "Cook Like a Pro with Our Kitchen Gadgets",
+      "text": "Explore our kitchen gadgets collection and enhance your cooking experience.",
+      "link": "https://example.com/shop/cooking"
+    },
+    {
+      "ad_id": 106,
+      "image_url": "https://example.com/scarves_ad.jpg",
+      "tagline": "Wrap Yourself in Elegance with Our Scarves",
+      "text": "Discover a collection of luxurious scarves for every occasion. Elevate your style!",
+      "link": "https://example.com/shop/scarves"
+    },
+    {
+      "ad_id": 107,
+      "image_url": "https://example.com/beachwear_ad.jpg",
+      "tagline": "Beach Ready: Trendy Beachwear Collection",
+      "text": "Get ready for the beach with our stylish and comfortable beachwear. Shop now!",
+      "link": "https://example.com/shop/beachwear"
+    },
+    {
+      "ad_id": 108,
+      "image_url": "https://example.com/fitness_gear_ad.jpg",
+      "tagline": "Gear Up for a Healthy Lifestyle",
+      "text": "Explore our fitness gear collection and kickstart your journey towards a healthy lifestyle.",
+      "link": "https://example.com/shop/fitness_gear"
+    },
+    {
+      "ad_id": 109,
+      "image_url": "https://example.com/smartphones_ad.jpg",
+      "tagline": "Unleash the Power of the Latest Smartphones",
+      "text": "Upgrade to the latest smartphones with cutting-edge features. Explore now!",
+      "link": "https://example.com/shop/smartphones"
+    },
+    {
+      "ad_id": 110,
+      "image_url": "https://example.com/foodie_ad.jpg",
+      "tagline": "Indulge Your Inner Foodie with Culinary Delights",
+      "text": "Satisfy your culinary cravings with our curated selection of foodie essentials.",
+      "link": "https://example.com/shop/foodie"
+    }
+  
+    
